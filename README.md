@@ -1,7 +1,7 @@
 # D_GOVERNANCE
 
-> Blockchain-based decentralized government document storage system as NFTs (2017)
-> Ethereum Dapp Project in Solidity ,VueJS with IPFS
+## Blockchain-based decentralized government document storage system as NFTs (2017)
+## Ethereum Dapp Project in Solidity ,VueJS with IPFS
 
 
 # install dependencies
